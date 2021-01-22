@@ -1,0 +1,11 @@
+D:\Шаг\Selenium\01_Intro\01_HW\obj\Debug\01_HW.csprojAssemblyReference.cache
+D:\Шаг\Selenium\01_Intro\01_HW\obj\Debug\01_HW.csproj.CoreCompileInputs.cache
+D:\Шаг\Selenium\01_Intro\01_HW\bin\Debug\01_HW.exe.config
+D:\Шаг\Selenium\01_Intro\01_HW\bin\Debug\01_HW.exe
+D:\Шаг\Selenium\01_Intro\01_HW\bin\Debug\01_HW.pdb
+D:\Шаг\Selenium\01_Intro\01_HW\bin\Debug\WebDriver.dll
+D:\Шаг\Selenium\01_Intro\01_HW\bin\Debug\WebDriver.Support.dll
+D:\Шаг\Selenium\01_Intro\01_HW\bin\Debug\WebDriver.xml
+D:\Шаг\Selenium\01_Intro\01_HW\obj\Debug\01_HW.csproj.CopyComplete
+D:\Шаг\Selenium\01_Intro\01_HW\obj\Debug\01_HW.exe
+D:\Шаг\Selenium\01_Intro\01_HW\obj\Debug\01_HW.pdb

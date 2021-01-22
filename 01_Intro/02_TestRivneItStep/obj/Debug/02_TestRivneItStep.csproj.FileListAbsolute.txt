@@ -1,0 +1,11 @@
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\bin\Debug\02_TestRivneItStep.exe.config
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\bin\Debug\02_TestRivneItStep.exe
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\bin\Debug\02_TestRivneItStep.pdb
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\bin\Debug\WebDriver.dll
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\bin\Debug\WebDriver.Support.dll
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\bin\Debug\WebDriver.xml
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\obj\Debug\02_TestRivneItStep.csprojAssemblyReference.cache
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\obj\Debug\02_TestRivneItStep.csproj.CoreCompileInputs.cache
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\obj\Debug\02_TestRivneItStep.csproj.CopyComplete
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\obj\Debug\02_TestRivneItStep.exe
+D:\Шаг\Selenium\01_Intro\02_TestRivneItStep\obj\Debug\02_TestRivneItStep.pdb
